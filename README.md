@@ -7,7 +7,7 @@ Send inference request to NVIDIA Triton Inference server.
 
 Run the following command in your Node-RED user directory - typically `~/.node-red`
 
-        npm install tequ-node-red-triton-request
+        npm install Lapland-UAS-Tequ/tequ-node-red-triton-request
 
 ## Information
 
